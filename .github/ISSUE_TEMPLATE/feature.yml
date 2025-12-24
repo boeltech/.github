@@ -1,0 +1,11 @@
+name: Feature request
+description: Solicitar nueva funcionalidad
+title: "[FEAT] "
+labels: ["feature"]
+body:
+  - type: textarea
+    attributes:
+      label: Descripción
+      description: ¿Qué se quiere lograr?
+    validations:
+      required: true
